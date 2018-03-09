@@ -57,7 +57,7 @@ Finally, add a route to your Angular router, `/:id` which will render your singl
 
 ### Bonus | Creating Entries
 
-Add a new method to your service that takes in an object containing a `title` and `content`, and makes a POST request to `/api/journal-entries`.
+Add a new method to your  that takes in an object containing a `title` and `content`, and makes a POST request to `/api/journal-entries`.
 
 Create an `entry-form-component` and display it on the home page with the list of all of your journal entries. Optionally, add a button to show and hide the form.
 
